@@ -67,6 +67,11 @@ iframe {
   margin-bottom: 10px;
 }
 
+img {
+  height: auto;
+  width: 300px;
+}
+
 /* * { padding: 0; margin: 0; }
  body {
   margin: 0 auto 0 auto;
