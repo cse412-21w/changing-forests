@@ -15,16 +15,19 @@ body {
   background-size: cover;
 }
 
-section {
+.body section {
   height: auto;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
-  flex-wrap: wrap;
+  flex-grow: 1;
+}
+
+.intro article {
+    margin: auto;
 }
 
 article {
-  margin: auto;
   /* background-color: #CAD2C5; */
   /* background: rgba(245, 245, 245, 1); */
   text-align: center;
@@ -40,6 +43,7 @@ article {
 h1 {
   font-size: 48pt;
   margin-bottom: 25px;
+  margin-top: 10px;
 	/* -webkit-text-stroke-width: 2.5px; */
 }
 
@@ -55,7 +59,7 @@ h1, h2 {
 }
 
 #fp-nav ul li a span{
-     background: red;
+     background: #B4A98C !important;
    }
 
 iframe {
