@@ -59,12 +59,17 @@ h1, h2 {
 }
 
 #fp-nav ul li a span{
-     background: #B4A98C !important;
+     background: #84A98C !important;
    }
 
 iframe {
   margin: auto;
   margin-bottom: 10px;
+}
+
+img {
+  height: auto;
+  width: 300px;
 }
 
 /* * { padding: 0; margin: 0; }
