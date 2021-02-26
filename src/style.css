@@ -33,12 +33,13 @@ article {
   /* background: rgba(245, 245, 245, 1); */
   text-align: center;
   border-radius: 25px;
-  width: 40%;
+  width: 50%;
   margin-bottom: 5px;
 }
 
 #page4 article {
   /* background: rgba(245, 245, 245, 1); */
+  width: 90%;
 }
 
 
