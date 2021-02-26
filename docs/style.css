@@ -10,9 +10,10 @@ body {
 }
 
 #page4 {
-  background-image: url("images/deforestation.jpg");
+  background-image: url("images/coverFlipped.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-wdt
 }
 
 .body section {
@@ -37,7 +38,8 @@ article {
 }
 
 #page4 article {
-  background: rgba(245, 245, 245, 1);
+  /* background: rgba(245, 245, 245, 1); */
+  margin-bottom: -150px;
 }
 
 h1 {
