@@ -1,6 +1,6 @@
 body {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16pt;
+  font-family: 'Oswald', sans-serif;
+  font-size: 12pt;
 }
 
 #page1, #page2, #page3 {
@@ -13,19 +13,36 @@ body {
   background-image: url("images/coverFlipped.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-wdt
 }
 
-.body section {
+.body section, .map section {
   height: auto;
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-content: center;
   flex-grow: 1;
+}
+
+.map section {
+  width: 90%;
+  margin: auto;
+  flex-direction: column;
+}
+
+.map image {
+  margin: auto;
+}
+
+.body article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .intro article {
     margin: auto;
+      font-size: 16pt;
 }
 
 article {
@@ -41,7 +58,6 @@ article {
   /* background: rgba(245, 245, 245, 1); */
   width: 90%;
 }
-
 
 h2, h3 {
   font-size: 24pt;
@@ -72,7 +88,17 @@ iframe {
 
 img {
   height: auto;
-  width: 300px;
+  width: 600px;
+}
+
+.tall {
+    height: 600px;
+    width: auto;
+}
+
+#kitty {
+  width: 500px;
+  height: auto;
 }
 
 /* * { padding: 0; margin: 0; }
