@@ -1,6 +1,11 @@
 body {
   font-family: 'Oswald', sans-serif;
   font-size: 14pt;
+  font-weight: 300;
+}
+
+h1, h2, h3, .intro {
+  font-weight: 400;
 }
 
 #page1, #page2, #page3 {
