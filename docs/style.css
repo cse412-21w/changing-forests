@@ -48,6 +48,11 @@ h1, h2, h3, .intro {
 .intro article {
     margin: auto;
     font-size: 16pt;
+    background: rgba(245, 245, 245, .35);
+}
+
+.title article {
+  background: rgba(245, 245, 245, 0);
 }
 
 article {
@@ -103,6 +108,11 @@ img {
 
 #kitty {
   width: 500px;
+  height: auto;
+}
+
+#sadForest {
+  width: 700px;
   height: auto;
 }
 
