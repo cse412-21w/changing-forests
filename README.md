@@ -4,7 +4,7 @@ Place your team member names here.
 ### Contribution Statements
 Add individual contribution statements here.
 ## Project Proposal Abstract
-This is the space for you to add a description for your project.
+<div class=text-justify> Our project will focus on the forces affecting global forests, including but not limited to climate change, forest fires, logging, acid rain, and loss of biodiversity. We plan on not only showing these changes but also providing context and identifying the specific factors that resulted in these changes, such as policy changes, concentration of certain industries, and gender reveal parties. We will likely use an interactive choropleth to visualize geographic data and will encourage viewers to drill down into changes experienced by specific regions. When viewers drill down, additional visualizations will appear to tell stories about the forest data. We plan to incorporate an overarching timeline to serve as a narrative structure, including past, present, and future data. Overall, we will use a combination of static and dynamic visualizations to guide the user through our narrative, incorporating interactive visualizations as well to allow the viewers to explore the data themselves. Finally, our project aims not to discourage viewers, but to give them hope for saving forests in the future.
 
 ## Getting Started
 
