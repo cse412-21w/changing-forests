@@ -25,7 +25,7 @@ h1, h2, h3, .intro {
 
 .crawl {
   position: relative;
-  top: -100px;
+  top: 9999px;
   transform-origin: 50% 100%;
   animation: crawl 60s linear;
 }
@@ -163,7 +163,7 @@ h2, h3 {
 	/* -webkit-text-stroke-width: 2.5px; */
 }
 
-#fp-nav ul li a span{
+#fp-nav ul li a span {
      background: #84A98C !important;
    }
 
