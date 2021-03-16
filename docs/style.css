@@ -240,6 +240,11 @@ img {
   font-size: 10pt;
 }
 
+.team img {
+  width: 150px;
+  height: 150px;
+}
+
 /* * { padding: 0; margin: 0; }
  body {
   margin: 0 auto 0 auto;
