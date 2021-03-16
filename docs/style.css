@@ -9,6 +9,11 @@ h1, h2, h3, h4 {
   font-weight: 400;
 }
 
+.title2 p {
+  color: white;
+  font-size: 10pt;
+}
+
 .star-wars {
   display: flex;
   justify-content: center;
