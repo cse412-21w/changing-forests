@@ -236,6 +236,10 @@ img {
   margin-right: auto;
 }
 
+.references {
+  font-size: 10pt;
+}
+
 /* * { padding: 0; margin: 0; }
  body {
   margin: 0 auto 0 auto;
