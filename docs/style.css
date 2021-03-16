@@ -225,6 +225,17 @@ ol {
   width: 25%;
 }
 
+.endangered {
+  height: 100px;
+  width: auto;
+  margin-bottom: -50px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* * { padding: 0; margin: 0; }
  body {
   margin: 0 auto 0 auto;
