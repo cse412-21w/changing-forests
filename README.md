@@ -1,15 +1,23 @@
 # Final Project Demo
 ## Team Members
-Place your team member names here.
+Dallas Warren
+Jacqueline Dai
+Ryan Francis
+Sara Aalinezhad
+Victoria Teng
 ### Contribution Statements
-Add individual contribution statements here.
+Dallas - Design, Website Implementation, and Visualizations
+Jacqueline - Design, Visualizations, and Narrative
+Ryan - Design, Visualizations and Narrative
+Sara - Design, Visualizations and Narrative
+Tori - Design, Visualizations, and Narrative
 ## Project Proposal Abstract
 <div class=text-justify> Our project will focus on the forces affecting global forests, including but not limited to climate change, forest fires, logging, acid rain, and loss of biodiversity. We plan on not only showing these changes but also providing context and identifying the specific factors that resulted in these changes, such as policy changes, concentration of certain industries, and gender reveal parties. We will likely use an interactive choropleth to visualize geographic data and will encourage viewers to drill down into changes experienced by specific regions. When viewers drill down, additional visualizations will appear to tell stories about the forest data. We plan to incorporate an overarching timeline to serve as a narrative structure, including past, present, and future data. Overall, we will use a combination of static and dynamic visualizations to guide the user through our narrative, incorporating interactive visualizations as well to allow the viewers to explore the data themselves. Finally, our project aims not to discourage viewers, but to give them hope for saving forests in the future.
 
 ## Getting Started
 
 This repo is set up to use the [Parcel](https://parceljs.org/) bundler. If you don't
-like the way we've set things up, feel free to change it however you like! You are welcome to add, delete, rename, and replace any files contained here. You may also style and organize your final webpage however you would like. 
+like the way we've set things up, feel free to change it however you like! You are welcome to add, delete, rename, and replace any files contained here. You may also style and organize your final webpage however you would like.
 
 The only restriction is that __your final HTML/CSS/JS output must be stored in the "docs" folder__ so that
 GitHub knows how to serve it as a static site.
@@ -44,12 +52,12 @@ To run the project locally, run `npm start` and it will be available at http://l
 ### Building the final output
 
 Run `npm run build` and all of your assets will be compiled and placed into the `docs/` folder. Note
-that this command will overwrite the existing docs folder. You do not have to manually create the `docs/` folder because everything will be handled in the build script. Parcel will bundle all assets in the `src/` folder and place then in a folder called `dist/`. GitHub Pages requires the folder name to be called `docs/`, so we move all assets from the `dist/` folder to the `docs/` folder for you. 
+that this command will overwrite the existing docs folder. You do not have to manually create the `docs/` folder because everything will be handled in the build script. Parcel will bundle all assets in the `src/` folder and place then in a folder called `dist/`. GitHub Pages requires the folder name to be called `docs/`, so we move all assets from the `dist/` folder to the `docs/` folder for you.
 
 If you are developing on a Windows machine, replace the `build` script in the `package.json` file with this:
 `parcel build src/index.html --no-minify --public-url https://cse412-21w.github.io/project-demo & RD /S /Q .\\docs & ren .\\dist docs`
 
-Once pushed to GitHub, the output should be available at cse412-21w.github.io/your-repo-name/. 
+Once pushed to GitHub, the output should be available at cse412-21w.github.io/your-repo-name/.
 For example, you can view the sample embedded Tableau, vega-lite, and d3 charts at https://cse412-21w.github.io/project-demo/.
 
 
